@@ -1,0 +1,8 @@
+﻿Etapa,Campo,Descrição / Ação,Exemplo de preenchimento
+1. Tipo de uniforme,Categoria,Selecione o tipo de uniforme,Escolar / Industrial / Corporativo / Esportivo
+2. Prioridade técnica,Critério principal,Escolha o foco técnico,Conforto / Resistência / Aparência
+3. Gramatura,Peso do tecido,Informe a faixa de gramatura,180 g/m²
+4. Composição de fibras,Tipo de fibra,Selecione a composição,65% Poliéster / 35% Algodão
+5. Verificação de estoque,Lote e metragem,Consultar sistema de estoque,Lote OXF2026-ESC / 320 m
+6. Cor e acabamento,Padrão visual,Escolher cor e acabamento,Branco / Liso / Aceita bordado
+7. Registro no sistema,Atualização final,Inserir dados no ERP ou planilha,Ficha técnica atualizada e vinculada ao pedido

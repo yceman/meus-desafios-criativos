@@ -1,0 +1,5 @@
+﻿Tecido,Lote,Estoque inicial,Entradas (m),Saídas (m),Estoque final,Status,Ação recomendada
+Oxford,OXF2026-ESC,320,100,80,340,Disponível,Manter nível atual
+Brim,BRM2026-IND,150,50,120,80,Baixo estoque,Planejar reposição
+Gabardine,GBD2026-CORP,200,0,60,140,Disponível,Monitorar consumo
+Poliéster,POL2026-ESP,250,150,130,270,Disponível,Manter nível atual
