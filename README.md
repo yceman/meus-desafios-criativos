@@ -4,3 +4,5 @@ Microsoft Copilot, NotebookLM.📓🤖
 #### Tecidos  
 Artigo 
 Tarefas  
+Conteúdo 
+Pesquisa 
